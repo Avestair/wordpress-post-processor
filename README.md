@@ -67,5 +67,5 @@ Configuration is managed through a `.env` file.
 Once your `.env` file is configured, you can run the script with a single command:
 
 ```bash
-bun start
+bun run dev
 ```

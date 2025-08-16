@@ -55,9 +55,6 @@ Configuration is managed through a `.env` file.
     ```dotenv
     # The base URL of the WordPress site you want to fetch posts from
     WP_BASE_URL="[https://your-wordpress-site.com](https://your-wordpress-site.com)"
-
-    # The local directory where the Markdown files will be saved
-    OUTPUT_DIR="./posts"
     ```
 
 ---

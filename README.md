@@ -2,8 +2,8 @@
 
 [![Powered by Bun](https://img.shields.io/badge/Powered%20by-Bun-black?style=flat&logo=bun)](https://bun.sh/)
 
-A **JavaScript-based tool** for fetching WordPress posts via the public REST API, processing their HTML, and converting the content into **Markdown**. Built to run in a **Node.js environment** (with Bun). 🚀
-Optimized for Astro.js frontends.
+A **JavaScript-based tool** for fetching WordPress posts via the public REST API, processing their HTML, and converting the content into **Markdown**. Built to run in a **Node.js environment** (with Bun).
+Optimized for Astro.js frontends. 🚀
 
 ---
 
